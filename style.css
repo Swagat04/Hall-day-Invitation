@@ -5,7 +5,6 @@ body {
   background-size: cover; /* Stretch background to fill viewport */
   background-position: center; /* Center the background image */
   height: 100vh;
-  overflow: hidden;
 }
 
 .container {
