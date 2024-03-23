@@ -1,8 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
-  background-color: #f5f5f5; /* Light gray background */
+  font-family: "Montserrat", sans-serif; /* Use a similar font style */
+  background-color: #f5f5f5; /* Light gray background (optional) */
+  background-image: url("path/to/your/background.jpg"); /* Replace with your background image path */
+  background-size: cover; /* Stretch background to fill viewport */
+  background-position: center; /* Center the background image */
 }
 
 .container {
@@ -14,11 +17,17 @@ body {
 }
 
 .invitation {
-  font-size: 3em; /* Large heading */
-  color: #333; /* Dark gray text */
+  font-size: 3em;
+  color: #333; /* Dark gray text (optional) */
   text-align: center;
-  margin-bottom: 2rem; /* Add space between heading and text box */
-  animation: entrance 1s ease-in-out forwards;
+  margin-bottom: 2rem;
+}
+
+.text-box {
+  background-color: #fff; /* White text box background (optional) */
+  padding: 2rem;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow effect (optional) */
 }
 
 @keyframes entrance {
