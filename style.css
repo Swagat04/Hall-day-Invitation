@@ -37,7 +37,7 @@ body {
   padding: 2rem; /* Add padding for content */
   border-radius: 30px; /* Rounded corners */
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.51); /* Subtle shadow effect */
-  animation: textbox-appear 15s ease-in-out forwards;
+  animation: textbox-appear 7.5s ease-in-out forwards;
 }
 
 @keyframes textbox-appear {
