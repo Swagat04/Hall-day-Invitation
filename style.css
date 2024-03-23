@@ -20,13 +20,7 @@ body {
   color: #333; /* Dark gray text (optional) */
   text-align: center;
   margin-bottom: 2rem;
-}
-
-.text-box {
-  background-color: #fff; /* White text box background (optional) */
-  padding: 2rem;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow effect (optional) */
+  animation: entrance 0.5s ease-in-out forwards;
 }
 
 @keyframes entrance {
