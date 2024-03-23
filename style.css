@@ -3,6 +3,7 @@
   padding: 0;
   font-family: "Montserrat", sans-serif; /* Use a similar font style */
   background-image: url("https://swagat04.github.io/Hall-day-Invitation/pink-and-blue-background-am3tr621dcwapybh.jpg"); /* Replace with your background image path */
+  background-color: #f5f5f5; 
   background-size: cover; /* Stretch background to fill viewport */
   background-position: center; /* Center the background image */
 }
