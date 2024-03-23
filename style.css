@@ -16,8 +16,9 @@ body {
 }
 
 .invitation {
-  font-size: 3em;
-  color: #333; /* Dark gray text (optional) */
+  font-family: "Truculenta", sans-serif;
+  font-optical-sizing: auto;
+  color: #3f2311; /* Dark gray text (optional) */
   text-align: center;
   margin-bottom: 2rem;
   animation: entrance 3s ease-in-out forwards;
