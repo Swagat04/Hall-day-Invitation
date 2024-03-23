@@ -20,7 +20,7 @@ body {
   color: #333; /* Dark gray text (optional) */
   text-align: center;
   margin-bottom: 2rem;
-  animation: entrance 0.5s ease-in-out forwards;
+  animation: entrance 3s ease-in-out forwards;
 }
 
 @keyframes entrance {
@@ -33,7 +33,7 @@ body {
   padding: 2rem; /* Add padding for content */
   border-radius: 5px; /* Rounded corners */
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
-  animation: textbox-appear 0.5s ease-in-out forwards;
+  animation: textbox-appear 5s ease-in-out forwards;
 }
 
 @keyframes textbox-appear {
