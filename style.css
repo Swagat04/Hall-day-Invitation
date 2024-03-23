@@ -1,5 +1,5 @@
 body {
-  margin: 30vh;
+  margin: 25vh;
   padding: 0;
   font-family: "Montserrat", sans-serif; /* Use a similar font style */
   background-image: url("https://swagat04.github.io/Hall-day-Invitation/pink-and-blue-background-am3tr621dcwapybh.jpg"); /* Replace with your background image path */ 
@@ -18,6 +18,7 @@ body {
 .invitation {
   font-family: "Truculenta", sans-serif;
   font-optical-sizing: auto;
+  font-size: 20vh
   color: #ffffff; /* Dark gray text (optional) */
   text-align: center;
   margin-bottom: 2rem;
