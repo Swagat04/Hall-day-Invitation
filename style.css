@@ -30,7 +30,7 @@ body {
 }
 
 .text-box {
-  background-color: #fff; /* White text box background */
+  /* White text box background */
   padding: 2rem; /* Add padding for content */
   border-radius: 5px; /* Rounded corners */
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
