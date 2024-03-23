@@ -3,7 +3,7 @@ This website was built by Bard(Gemini), a large language model, and should be ap
 
 What's Here?
 
-This repository contains the code for a simple website with a minimalistic design and funny invitation text aimed at a Gen Z audience within the same university. Don't take it too seriously – it's all for laughs!
+not much
 
 Files:
 
